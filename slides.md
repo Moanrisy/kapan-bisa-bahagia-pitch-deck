@@ -75,31 +75,11 @@ src: ./pages/3a-video-gameplay.md
 ---
 
 ---
-src: ./pages/4.md
+src: ./pages/4-penjelasan-bisnis.md
 ---
 
 ---
-src: ./pages/5.md
----
-
----
-src: ./pages/6.md
----
-
----
-src: ./pages/7.md
----
-
----
-src: ./pages/8.md
----
-
----
-src: ./pages/9.md
----
-
----
-src: ./pages/10.md
+src: ./pages/5-pengenalan-tim.md
 ---
 
 ---
@@ -107,8 +87,6 @@ layout: center
 class: text-center
 ---
 
-# Learn More
+# Play at
 
-[Materials](https://sli.dev) · [GitHub](https://github.com/KareimGazer) · [YouTube](https://www.youtube.com/@KareemKreates)
-
-<PoweredBySlidev mt-10 />
+[Itch.io](https://itch.io) 
