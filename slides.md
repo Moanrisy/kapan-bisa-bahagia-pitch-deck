@@ -59,19 +59,19 @@ src: ./pages/why.md
 ---
 
 ---
-src: ./pages/intro.md
+src: ./pages/1-overview.md
 ---
 
 ---
-src: ./pages/1.md
+src: ./pages/2-target-market.md
 ---
 
 ---
-src: ./pages/2.md
+src: ./pages/3-penjelasan-produk-game.md
 ---
 
 ---
-src: ./pages/3.md
+src: ./pages/3a-video-gameplay.md
 ---
 
 ---

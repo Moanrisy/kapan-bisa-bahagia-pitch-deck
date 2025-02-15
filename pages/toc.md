@@ -4,7 +4,7 @@ layout: two-cols
 layoutClass: gap-16
 ---
 
-# Datar Isi
+# Daftar Isi
 
 <br>
 <br>

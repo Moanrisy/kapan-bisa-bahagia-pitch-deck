@@ -10,11 +10,11 @@ Kapan Bisa Bahagia adalah game visual novel yang bercerita tentang ben. Seorang 
 
 <v-clicks>
 
-<span v-mark.highlight.red="2"> Ben sangat membenci hidupnya.</span>  Dia selalu mengeluh dan banyaknya tekanan hidup membuat ben hampir bertemu Tuhan.
+<span v-mark.highlight.red="3"> Ben sangat membenci hidupnya.</span>  Dia selalu mengeluh dan banyaknya tekanan hidup membuat ben hampir bertemu Tuhan.
 
 Hingga ia diselamatkan oleh seorang kakek-kakek yang 
-<span v-mark.box.red="4">mengubah pandangannya soal hidup </span>.
-Mampukah ben merubah benci nya pada kehidupan <span v-mark.highlight.green="3">menjadi cinta?</span>
+<span v-mark.box.red="5">mengubah pandangannya soal hidup </span>.
+Mampukah ben merubah benci nya pada kehidupan <span v-mark.highlight.green="4">menjadi cinta?</span>
 
 </v-clicks>
 
