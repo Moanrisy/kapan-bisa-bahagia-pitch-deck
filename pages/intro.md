@@ -4,22 +4,15 @@ layoutClass: gap-16
 transition: fade-out
 ---
 
-# Intro
+# Target Market/Audience
+''
 
-Computer programs consist of commands
 
-and each command instructing the computer to take some action.
-
-A computer executes these commands one by one.
-
-commands can be used to:
+<span v-mark.box.red="0">**Gen Z** </span>
 
 <v-clicks>
 
-- post messages or ask for info from the user.
-- perform calculations on numbers.
-- compare things in the computer's memory.
-- cause changes in how the program functions.
+<span v-mark.box.red="1">**Lelah dengan kehidupan** </span>
 
 </v-clicks>
 
