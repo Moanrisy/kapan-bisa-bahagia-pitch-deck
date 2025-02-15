@@ -4,12 +4,12 @@ layout: two-cols
 layoutClass: gap-16
 ---
 
-# Table of contents
+# Datar Isi
 
 <br>
 <br>
 
-## Prerequisites
+<!-- ## Prerequisites
 
 <br>
 
@@ -18,9 +18,9 @@ No previous knowledge of Python is needed
 as the course will start with a
 quick introduction to Python.
 
-```
+``` -->
 
-::right::
+<!-- ::right:: -->
 
 <Toc text-sm minDepth="1" maxDepth="2" />
 

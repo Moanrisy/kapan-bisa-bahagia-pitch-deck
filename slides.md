@@ -10,7 +10,7 @@ rabbit:
 theme: bricks
 
 # some information about your slides (markdown enabled)
-title: Python Series
+title: Kapan Bisa Bahagia Pitch Deck
 author: Kareim Tarek
 class: text-center
 # https://sli.dev/features/drawing

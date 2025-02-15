@@ -23,5 +23,5 @@ commands can be used to:
 
 </v-clicks>
 
-::right::
-<Tweet id="1782553830305218930" scale="0.65" />
+<!-- ::right::
+<Tweet id="1782553830305218930" scale="0.65" /> -->

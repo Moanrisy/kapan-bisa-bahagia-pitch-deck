@@ -2,17 +2,41 @@
 transition: slide-left
 ---
 
-# Why Python?
+# Overview
+Premis cerita
 
-- 📝 **popular, easy** to learn programming language.
+
+Kapan Bisa Bahagia adalah game visual novel yang bercerita tentang ben. Seorang gen z yang selalu bertanya-tanya kapan dia bisa bahagia?
+
+<v-clicks>
+
+<span v-mark.highlight.red="2"> Ben sangat membenci hidupnya.</span>  Dia selalu mengeluh dan banyaknya tekanan hidup membuat ben hampir bertemu Tuhan.
+
+Hingga ia diselamatkan oleh seorang kakek-kakek yang 
+<span v-mark.box.red="4">mengubah pandangannya soal hidup </span>.
+Mampukah ben merubah benci nya pada kehidupan <span v-mark.highlight.green="3">menjadi cinta?</span>
+
+</v-clicks>
+
+<!-- - 📝 **popular, easy** to learn programming language.
+
+<v-clicks>
+
 - 🛠 suitable for fast **prototyping**
 - 🧑‍💻 commonly used in the field of **data analysis**, **machine learning** and **AI**.
 
+</v-clicks> -->
+
+<!-- <v-clicks>
+
 It has very efficient libraries available to process large amounts of data including libraries such of `NumPy`, `Pandas`, `Matplotlib` and `SciPy` that we will familiarize ourselves with during this course.
 
-[python docs!](https://docs.python.org/3/)
+</v-clicks> -->
 
-<div class="w-60 relative">
+
+<!-- [python docs!](https://docs.python.org/3/) -->
+
+<!-- <div class="w-60 relative">
   <div class="relative w-40 h-40">
     <img
       v-motion
@@ -39,7 +63,7 @@ It has very efficient libraries available to process large amounts of data inclu
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
     Python
   </div>
-</div>
+</div> -->
 
 <style>
 h1 {
