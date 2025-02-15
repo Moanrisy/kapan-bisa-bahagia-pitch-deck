@@ -89,4 +89,4 @@ class: text-center
 
 # Play at
 
-[Itch.io](https://itch.io) 
+[Butuh link Itch.io](https://itch.io) 
