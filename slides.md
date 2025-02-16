@@ -89,4 +89,4 @@ class: text-center
 
 # Play at
 
-[Butuh link Itch.io](https://itch.io) 
+[Butuh link Itch.io](https://marsiput.itch.io/kapan-bisa-bahagia) 

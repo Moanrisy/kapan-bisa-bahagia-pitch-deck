@@ -6,15 +6,15 @@ transition: slide-left
 Premis cerita
 
 
-Kapan Bisa Bahagia adalah game visual novel yang bercerita tentang ben. Seorang gen z yang selalu bertanya-tanya kapan dia bisa bahagia?
+Kapan Bisa Bahagia adalah game visual novel yang bercerita tentang damar. Seorang gen z yang selalu bertanya-tanya kapan dia bisa bahagia?
 
 <v-clicks>
 
-<span v-mark.highlight.red="3"> Ben sangat membenci hidupnya.</span>  Dia selalu mengeluh dan banyaknya tekanan hidup membuat ben hampir bertemu Tuhan.
+<span v-mark.highlight.red="3"> Damar sangat membenci hidupnya.</span>  Dia selalu mengeluh dan banyaknya tekanan hidup membuat damar hampir bertemu Tuhan.
 
 Hingga ia diselamatkan oleh seorang kakek-kakek yang 
 <span v-mark.box.red="5">mengubah pandangannya soal hidup </span>.
-Mampukah ben merubah benci nya pada kehidupan <span v-mark.highlight.green="4">menjadi cinta?</span>
+Mampukah damar merubah benci nya pada kehidupan <span v-mark.highlight.green="4">menjadi cinta?</span>
 
 </v-clicks>
 

@@ -9,13 +9,17 @@ layout: two-cols
 
 <v-click>
 
-**Core loop:** 
+**Core loop:** 1 Good ending dengan banyak bad ending.
 
 </v-click>
 
 <v-click>
 
 **Feature:** 
+- Save load game progress
+- Phone notification game mechanic
+- 2 Music based on chapters story
+- Multiple theme based on current character POV (Point of View)
 
 </v-click>
 
